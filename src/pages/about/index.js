@@ -23,7 +23,7 @@ class About extends Component {
           <Helmet>
                 <meta charSet="utf-8" />
                 <title>About | Japhet Kuntu Blankson</title>
-                <link rel="canonical" href="http://motasimfoad.com/about" />
+                <link rel="canonical" href="https://japhetkb.netlify.app/about" />
                 <meta name="description" content="Japhet Kuntu Blankson | About - Product Manager | Project Manager | Software Engineer
                 Experienced Project & Product Manager with a demonstrated history of working in computer software industry. 
                 Skilled in leading edge project management, web & software development tools & trends. 

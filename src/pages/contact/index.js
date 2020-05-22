@@ -24,7 +24,7 @@ class Contact extends React.Component {
         <Helmet>
                 <meta charSet="utf-8" />
                 <title>Contact | Japhet Kuntu Blankson</title>
-                <link rel="canonical" href="http://motasimfoad.com/contact" />
+                <link rel="canonical" href="https://japhetkb.netlify.app/contact" />
                 <meta name="description" content="Japhet Kuntu Blankson | Contact - Product Manager | Project Manager | Software Engineer" />
         </Helmet>
         <Animate to="1" from="0" attributeName="opacity">

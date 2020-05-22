@@ -26,7 +26,7 @@ function Home() {
          <Helmet>
                   <meta charSet="utf-8" />
                   <title>Home | Japhet Kuntu Blankson</title>
-                  <link rel="canonical" href="http://motasimfoad.com/home" />
+                  <link rel="canonical" href="https://japhetkb.netlify.app/home" />
                   <meta name="description" content="Japhet Kuntu Blankson | Home - Product Manager | Project Manager | Software Engineer" />
          </Helmet>
           <Animate to="1" from="0" attributeName="opacity">
