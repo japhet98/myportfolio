@@ -38,7 +38,7 @@ class About extends Component {
            <Row className="About-main">
               <HamburgerMenu />
               <div className="d1">
-              <CV />
+              {/* <CV /> */}
               </div>
            </Row>
           <Row className="About-footer">
