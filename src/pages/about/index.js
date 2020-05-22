@@ -22,12 +22,12 @@ class About extends Component {
         <Container className="About-header" fluid={true}>
           <Helmet>
                 <meta charSet="utf-8" />
-                <title>About | Motasim Foad</title>
+                <title>About | Japhet Kuntu Blankson</title>
                 <link rel="canonical" href="http://motasimfoad.com/about" />
-                <meta name="description" content="Motasim Foad | About - Product Manager | Project Manager | Software Engineer
+                <meta name="description" content="Japhet Kuntu Blankson | About - Product Manager | Project Manager | Software Engineer
                 Experienced Project & Product Manager with a demonstrated history of working in computer software industry. 
                 Skilled in leading edge project management, web & software development tools & trends. 
-                Strong computer engineering base with a BSc in Computer Science focused in Computer Software Engineering from BRAC University. 
+                Strong computer engineering base with a BSc in Computer Scienceand Engineering  focused in Software Project Manangement and Development from University of Mines and Technology (UMaT-Tarkwa). 
                 In addition to that minor on Basic Business studies to assist me through product & project management" />
           </Helmet>
            <Animate to="1" from="0" attributeName="opacity">

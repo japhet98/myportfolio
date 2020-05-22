@@ -15,7 +15,7 @@ const PCD = () => {
   const [git, setGit] = useState([]);
 
   async function fetchData() {
-    const res = await fetch("https://api.github.com/users/motasimfoad/repos");
+    const res = await fetch("https://api.github.com/users/japhet98/repos");
     res
       .json()
       .then(res => setGit(res))

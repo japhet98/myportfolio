@@ -20,7 +20,7 @@ import {
            Hello! 
          </h1>
          <h2 className="second_line">
-           I am <strong>motasim foad</strong>
+           I am <strong>Japhet Kuntu Blankson</strong>
          </h2>
          <h3>
          <ReactTypingEffect
@@ -32,7 +32,7 @@ import {
          </h3>
           
            <br />
-           <Button variant="outline-light" size="lg" className="home-left-aboutmme-btn"><Link to="/about" style={{ textDecoration: 'none', color: 'white' }} className="home-left-aboutme">About Me</Link></Button> &nbsp;
+           <Button variant="outline-light" size="lg" className="home-left-aboutmme-btn"><Link to="/about" style={{ textDecoration: 'none', color: 'white' }} className="home-left-aboutme">About Me</Link></Button>
            <Button variant="outline-light" size="lg" className="home-left-aboutmme-btn"><Link style={{ textDecoration: 'none', color: 'white' }} to="/contact" className="home-left-aboutme">Contact Me</Link></Button>
          </Col>
      </Row>
