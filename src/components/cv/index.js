@@ -14,7 +14,7 @@ function CV() {
           < CLC />
         </Col>
         <Col xl={5}>
-         < CRI />
+         {/* < CRI /> */}
         </Col>
       </Row>
   );

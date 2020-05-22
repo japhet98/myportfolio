@@ -57,7 +57,7 @@ class CLC extends Component {
               <ColoredLine color="#FFC466" />
               <Fade top cascade>
               <div className="AboutBtnContainer">
-                <div className="left"><FontAwesomeIcon onClick={() => this.setState({ isOpen: true })} icon={faDiagnoses} className="left_icon" /><br/><br/>Awards & Experiences</div>
+                <div className="left"><FontAwesomeIcon onClick={() => this.setState({ isOpen: false })} icon={faDiagnoses} className="left_icon" /><br/><br/>Awards & Experiences</div>
                 <div className="right"><FontAwesomeIcon onClick={() => this.setState({ show: true })} icon={faGitAlt} className="right_icon"/><br/><br/>Projects</div>
               </div>
             </Fade>
